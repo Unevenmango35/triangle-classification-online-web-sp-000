@@ -1,6 +1,6 @@
 class Triangle
-  attr_accessor :a, :b, :case 
-  
+  attr_accessor :a, :b, :case
+
   def initialize(a,b,c)
     :a = a
     :b = b
